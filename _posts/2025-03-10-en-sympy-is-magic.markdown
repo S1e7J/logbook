@@ -69,5 +69,5 @@ end this assignment on time if it wasn't for sympy (and that is kind of magical)
 ## Cool Links?
 
 * [Sympy](https://www.sympy.org/)
-* [My Scripts](https:github.com/S1e7J/Cuantica_Tarea_3)
+* [My Scripts](https://github.com/S1e7J/Cuantica_Tarea_3)
 * [Associated Legendre Polynomials](https://en.wikipedia.org/wiki/Associated_Legendre_polynomials)

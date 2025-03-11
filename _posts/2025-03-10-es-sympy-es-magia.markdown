@@ -76,5 +76,5 @@ en mi libro es un tipo de magia).
 ## Cool Links?
 
 * [Sympy](https://www.sympy.org/)
-* [Mis Scripts](https:github.com/S1e7J/Cuantica_Tarea_3)
+* [Mis Scripts](https://github.com/S1e7J/Cuantica_Tarea_3)
 * [Polinomio Asociado de Legendre](https://en.wikipedia.org/wiki/Associated_Legendre_polynomials)
