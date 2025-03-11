@@ -2,7 +2,7 @@
 layout: post
 title:  "Sympy is Magic for Physics"
 date:   2025-03-10 23:30:00 -0500
-categories: English Physics
+categories: EN Physics
 ---
 
 ## How much did I work?
