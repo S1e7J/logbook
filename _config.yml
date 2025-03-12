@@ -1,14 +1,18 @@
-title: S1e7J Blog
+title: S1e7J LogBook
 author: 
   name: S1e7J
   email: s.montoyar@proton.me
+  github: S1e7J
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  - This is my personal LogBook. I will post daily where about anything I do
+  to share and show the things I'm proud of.
+
+
+  - Esta es mi bitacora Personal. Aqui hare post diarios con todo lo que haya hecho
+  y que me sienta orgulloso de ello.
 
 # Build settings
 
@@ -52,7 +56,7 @@ minima:
   #date_format: "%b-%d-%Y"
 
   # Generate social links in footer.
-  #social_links:
+  # social_links:
   #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
