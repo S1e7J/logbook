@@ -29,7 +29,7 @@ working in C as I expected. The code ended up being less than 200 lines and almo
 all is really simple. Just for the sake of enjoying the process let me share some
 code snippets that I find really cool.
 
-```C
+```c
 int GetMinWidthHeight() {
     return (GetScreenWidth() > GetScreenHeight()) ?
     GetScreenHeight() : GetScreenWidth();
@@ -41,7 +41,7 @@ but seeing it in C was suprising. I wrote this code after a minimum amount of
 research on internet and knowing this kind of syntactic sugar is available is
 really cool.
 
-```C
+```c
 int CountLiveNeighbors(enum PosibleState **game, int i, int j) {
     int LiveNeighbors = 0;
     for (int k = -1; k <= 1; k++) {
@@ -65,7 +65,7 @@ problem but I'm not quite sure) that I litterally hardcoded all the posible opti
 in a vector list and check one by one. This function is neither complex nor prize
 worty but it's means a lot to me seeing how much I improve.
 
-```C
+```c
 enum PosibleState{
     Die,
     Live,

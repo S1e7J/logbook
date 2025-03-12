@@ -28,7 +28,7 @@ un problema tan grande como esperaba. Resulto ser un proyecto de menos de 200 li
 de codigo y creo que algunas de las ideas que tuve resultaron interesantes. A
 continuación les comparto algunas de ellas.
 
-```C
+```c
 int GetMinWidthHeight() {
     return (GetScreenWidth() > GetScreenHeight()) ?
     GetScreenHeight() : GetScreenWidth();
@@ -39,7 +39,7 @@ Conocia el operador `?` en JS y en Ruby desde hace algun tiempo pero para ser
 completamente honesto no sabia que este tipo de `syntacit sugar` estaba en C.
 Me parecio genial verlo aparecer luego de un minimo de busqueda en internet.
 
-```C
+```c
 int CountLiveNeighbors(enum PosibleState **game, int i, int j) {
     int LiveNeighbors = 0;
     for (int k = -1; k <= 1; k++) {
@@ -65,7 +65,7 @@ basicamente igual a esta y recuerdo escribir absolutamente todas las opciones 1 
 como he crecido programando me hizo sentir muy bien y calmo una parte importante
 de mi ansiedad notar que a veces uno avanza poco a poco y sin darse cuenta.
 
-```C
+```c
 enum PosibleState{
     Die,
     Live,
