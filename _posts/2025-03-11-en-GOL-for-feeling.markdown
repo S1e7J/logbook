@@ -7,7 +7,7 @@ categories: EN ComputerScience
 
 ## How much did I work?
 
-Today I had some clases that in total added to 4 hours of work. After that I
+Today I had some classes that in total added to 4 hours of work. After that I
 didn't felt so well so I decided to spent the rest of the day in a little side
 project that could lift my spirits.
 
@@ -37,7 +37,7 @@ int GetMinWidthHeight() {
 ```
 
 The ternary operator was something I have seen in JS and Ruby in some projects
-but seeing it in C was suprising. I wrote this code after a minimum amount of
+but seeing it in C was surprising. I wrote this code after a minimum amount of
 research on internet and knowing this kind of syntactic sugar is available is
 really cool.
 
@@ -61,7 +61,7 @@ int CountLiveNeighbors(enum PosibleState **game, int i, int j) {
 
 this code is really simple and made me proude of my self. When I was writing it
 I was remembering some of my first projects in Rust (I think it was the island
-problem but I'm not quite sure) that I litterally hardcoded all the posible options
+problem but I'm not quite sure) that I literally hardcoded all the possible options
 in a vector list and check one by one. This function is neither complex nor prize
 worty but it's means a lot to me seeing how much I improve.
 
@@ -84,7 +84,7 @@ but this code was thinked for like $$25x25$$ cells and I have already iterate
 over this cells multiple times before so neither I cared one more iteration or
 worried me about taking in consideration I would need to slow down my code for
 greater appreciation later. This implementation has also the benefit of not needing
-any more space than the simple game state. That way there was less posibilities of
+any more space than the simple game state. That way there was less possibilities of
 memory leaks.
 
 There it is, some of the cool things I think was worty to share about my work today.
